@@ -56,3 +56,7 @@
 #### 9. Создаем резервную копию базы данных
 
 - `python manage.py dumpdata > fixtures.json`
+
+## Адрес для ознакомления с работой приложения
+
+https://chernovol.ddns.net/
